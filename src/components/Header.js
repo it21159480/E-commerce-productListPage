@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/Header.css';
 function Header() {
     return (
-        <div style={{backgroundColor:''}}>
+        <div>
             <header class="header">
                 <div class="header-content">
                     <h1>E-Commerce Website</h1>

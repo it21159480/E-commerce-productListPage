@@ -1,0 +1,26 @@
+.pagination {
+  list-style: none;
+  display: flex;
+  position: relative;
+  border-radius: 50px
+}
+
+.page-item {
+  padding-left: 20px;
+  border-radius: 50px;
+ 
+}
+
+.page-link{
+  border-radius: 20px;
+  height: 30px;
+  width: 40PX;
+  border: none;
+  font-size: medium;
+}
+
+.page-item :hover{
+  background-color:#9b8080;
+  color: white;
+}
+

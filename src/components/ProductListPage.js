@@ -3,7 +3,7 @@ import productsData from '../data/products.json';
 import ProductCard from './ProductCard';
 import Pagination from './Pagination';
 import '../styles/ProductListPage.css'
-const itemsPerPage = 5; // Adjust the number of items per page
+const itemsPerPage = 4; // Adjust the number of items per page
 
 const ProductListPage = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -16,12 +16,12 @@ const ProductListPage = () => {
 
   return (
     <div className='product-list-page'>
-      <div style={{display:"flex", flexDirection : "row", justifyContent:'space-around' }}>
+      <div className='product-list'>
         {currentItems.map(product => (
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
-      <div style={{ }}>
+      <div style={{ justifyContent:'center'}}>
         <Pagination
           itemsPerPage={itemsPerPage}
           totalItems={productsData.length}

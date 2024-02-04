@@ -1,79 +1,92 @@
 [
   {
     "id": 1,
-    "name": "Product A",
+    "img":"https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+    "name": "Hoka Zinal",
     "price": 25.99,
     "quantity": 50
   },
   {
     "id": 2,
-    "name": "Product B",
+    "img":"https://productimages.footy.com/64e3aa3bda5effcd68f13236/0/3840.webp?q=75",
+    "name": "Hoka Zinal",
     "price": 39.99,
     "quantity": 30
   },
   {
     "id": 3,
-    "name": "Product C",
+    "img":"https://img.etimg.com/thumb/width-1200,height-900,imgsize-77978,resizemode-75,msid-95892008/top-trending-products/lifestyle/check-out-casual-shoes-for-men-in-india.jpg",
+    "name": "Sneakers",
     "price": 49.99,
     "quantity": 80
   },
   {
     "id": 4,
-    "name": "Product",
+    "img":"https://cdn.thewirecutter.com/wp-content/media/2023/05/running-shoes-2048px-9718.jpg",
+    "name": "Brooks Ghost",
     "price": 59.99,
     "quantity": 70
   },
   {
     "id": 5,
-    "name": "Product E",
+    "img":"https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/C/N/185082_1679598226.jpg",
+    "name": "Jogger for men",
     "price": 19.99,
     "quantity": 100
   },
   {
     "id": 6,
-    "name": "Product F",
+    "img":"https://rukminim2.flixcart.com/image/850/1000/ktep2fk0/track-pant/v/3/z/xxl-tr-05-navy-grey-jogger-spark-original-imag6rj4chkn3fcv.jpeg?q=90&crop=true",
+    "name": "Joggers Park Striped Men",
     "price": 89.99,
     "quantity": 20
   },
   {
     "id": 7,
-    "name": "Product G",
+    "img":"https://specials-images.forbesimg.com/imageserve/64d38e1e09f9fae7110eda10/CloudKnit-Slim-Sweatpant/960x0.jpg?cropX1=0&cropX2=900&cropY1=488&cropY2=1163",
+    "name": "Joggers Sweatpant",
     "price": 69.99,
     "quantity": 60
   },
   {
     "id": 8,
-    "name": "Product H",
+    "img":"https://mensfitnesstoday.com/wp-content/uploads/sites/2/2023/12/Best-joggers.jpg",
+    "name": "Best Sweatpant",
     "price": 34.99,
     "quantity": 40
   },
   {
     "id": 9,
-    "name": "Product I",
+    "img":"https://images-cdn.ubuy.qa/633aaef4004cbd30d0329b91-women-x27-s-unisex-legacy91-tech.jpg",
+    "name": "Nike Golf Legacy",
     "price": 79.99,
     "quantity": 10
   },
   {
     "id": 10,
-    "name": "Product J",
+    "img":"https://images.meesho.com/images/products/169069876/0zufp_512.webp",
+    "name": "Adiyogi Fedora Hats",
     "price": 29.99,
     "quantity": 200
   },
   {
     "id": 11,
-    "name": "Product K",
+    "img":"https://d35eoljtxupdlz.cloudfront.net/it_it%2Fgolf-cap-feltro-180022p-0420%2F2503%2Fsmall-2-f639098d-63bc-4126-897b-e0f43fbaa384.jpeg",
+    "name": "Felt Golf cap - Man",
     "price": 99.99,
     "quantity": 150
   },
   {
     "id": 12,
-    "name": "Product L",
+    "img":"https://www.jiomart.com/images/product/original/rvsxyb2jbt/fashno-winter-knit-woolen-warm-cap-beanie-cap-hat-winter-cap-for-men-women-pack-of-6-product-images-rvsxyb2jbt-8-202211240246.jpg?im=Resize=(500,630)",
+    "name": "Winter Knit Woolen Warm Cap ",
     "price": 19.99,
     "quantity": 100
   },
   {
     "id": 13,
-    "name": "Product M",
+    "img":"https://t3.ftcdn.net/jpg/02/30/27/70/360_F_230277027_EOzK1HBYy32TugOcpAl6gDnD0pbkgq1l.jpg",
+    "name": "Winter hat",
     "price": 49.99,
     "quantity": 50
   }
