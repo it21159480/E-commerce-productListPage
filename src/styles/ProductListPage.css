@@ -1,0 +1,22 @@
+.product-list-page {
+    display: flex;
+    flex-direction: column;
+   /* justify-self: space-between; */
+    /* padding-left: 10px; */
+    /* background-color: aqua; */
+  }
+  
+  .product-card {
+    margin-bottom: 20px;
+    
+    
+  }
+
+  .page-item{
+    display: inline-block;
+    position:relative;
+    padding-left: 10px;
+    /* display:'flex'; 
+    /* flex-Direction :'column'; */
+    /* justify-Items:'space-between';  */
+  }
