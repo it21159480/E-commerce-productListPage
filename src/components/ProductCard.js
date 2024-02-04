@@ -9,8 +9,11 @@ const ProductCard = ({ product }) => {
       <p>Name: {name}</p>
       <p>Price: ${price}</p>
       <p>Quantity in Stock: {quantity}</p>
-      <button>Edit</button>
-      <button>View</button>
+      <div className='button'>
+        <button>Edit</button>
+        <button>View</button>
+      </div>
+
     </div>
   );
 };
