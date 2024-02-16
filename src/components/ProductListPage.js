@@ -21,7 +21,7 @@ const ProductListPage = () => {
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
-      <div style={{ justifyContent:'center'}}>
+      <div style={{ justifyContent: 'center' }}>
         <Pagination
           itemsPerPage={itemsPerPage}
           totalItems={productsData.length}

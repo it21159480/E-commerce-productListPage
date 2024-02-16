@@ -2,12 +2,17 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-left: 10px;
+    position:relative;
   }
   .product-list-page .product-list{
     display:flex;
-    position:relative;
-    justify-content:space-between;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin: 10px;
   }
   
- 
+  @media (max-width: 800px){
+    .product-list-page .product-list {
+      flex-direction: column;
+    }
+  }

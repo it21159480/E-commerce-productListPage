@@ -1,12 +1,12 @@
  .App {
   text-align: center;
-  /* background: linear-gradient(110deg, rgba(3, 115, 243, 0.63), rgb(229, 241, 243)); */
+  /* background: linear-gradient(110deg, #3b444b, #93B1A6); */
   backdrop-filter: blur(50px);
   -webkit-backdrop-filter: blur(50px);
   padding-left: 35px;
   padding-right: 35px;
   padding-top: 20px;
-  background: #000000;
+  background: #3b444b;
   min-height: 100vh;
 }
 

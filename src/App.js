@@ -28,15 +28,11 @@ function App() {
     // </div>
     <div  className='App'>
       <div className='circle'></div>
-      <Header />
-      <div className='circle-2'></div>
       <div className='circle-1'></div>
-      <div>
-        <ProductListPage />
-      </div>
-
+      <div className='circle-2'></div>
+      <Header />
+      <ProductListPage />
       <Footer />
-    
     </div>
   );
 }
