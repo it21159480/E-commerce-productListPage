@@ -18,9 +18,11 @@
   border: none;
   font-size: medium;
 }
-
+.current-page {
+  background-color:#06fcfcbd ;
+}
 .page-item :hover{
-  background-color:#9b8080;
+  background-color:#ffffff;
   color: white;
 }
 

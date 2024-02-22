@@ -3,8 +3,8 @@ import '../styles/Header.css';
 function Header() {
     return (
         <div>
-            <header class="header">
-                <div class="header-content">
+            <header className="header">
+                <div className="header-content">
                     <h1>E-Commerce Website</h1>
                     <nav>
                         <ul>
